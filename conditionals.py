@@ -46,4 +46,6 @@ def calculator():
         print(num1 % num2)
 
 
-
+get_input()
+print("second function call")
+calculator()
